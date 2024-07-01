@@ -11,9 +11,9 @@ As students at Centre College with a passion for travel but limited budgets, we 
 We used a dataset from Kayak, collected by a web scraper, including airline, duration, stops, price, and dates for flights from NYC to Paris and Moscow. Data was cleaned in Python and analyzed in R-Studio.
 
 ### Findings
-**Cheapest Month**: February had the lowest average flight prices, followed by March and April.
-**Cheapest Destination**: Flights to Paris were cheaper than flights to Moscow.
-**Cheapest Airline**: American Airlines was generally cheaper than United Airlines for both destinations.
+- **Cheapest Month**: February had the lowest average flight prices, followed by March and April.
+- **Cheapest Destination**: Flights to Paris were cheaper than flights to Moscow.
+- **Cheapest Airline**: American Airlines was generally cheaper than United Airlines for both destinations.
 Analysis
 
 We performed hypothesis tests to compare mean flight prices:
