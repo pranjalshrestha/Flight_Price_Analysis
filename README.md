@@ -1,6 +1,6 @@
 # Flight_Price_Analysis
 
-Pranjal Shrestha and Riley Fowler\n
+Pranjal Shrestha and Riley Fowler \n
 DSC 230 - Statistical Modeling
 
 ### Overview
