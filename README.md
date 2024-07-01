@@ -1,9 +1,5 @@
 # Flight_Price_Analysis
 
-Pranjal Shrestha and Riley Fowler
-
-DSC 230 - Statistical Modeling
-
 ### Overview
 As students at Centre College with a passion for travel but limited budgets, we aimed to identify the cheapest travel times, destinations, and airlines. We analyzed flight data from NYC to Paris and Moscow for February, March, and April 2022 to answer:
 
