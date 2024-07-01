@@ -1,9 +1,7 @@
 # Flight_Price_Analysis
 
 Pranjal Shrestha and Riley Fowler
-
 DSC 230 - Statistical Modeling
-
 16 October 2023
 
 #### Overview
