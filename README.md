@@ -6,7 +6,9 @@ As students at Centre College with a passion for travel but limited budgets, we 
 1. **When is it cheapest to fly?**
 2. **Is it cheaper to fly to Paris or Moscow?**
 3. **Is American Airlines or United Airlines cheaper?**
-   
+
+![download](https://github.com/pranjalshrestha/Flight_Price_Analysis/assets/135492582/c7b401dc-c0c9-42cb-aff0-ac45616fc742)
+
 ### Data
 We used a dataset from Kayak, collected by a web scraper, including airline, duration, stops, price, and dates for flights from NYC to Paris and Moscow. Data was cleaned in Python and analyzed in R-Studio.
 
