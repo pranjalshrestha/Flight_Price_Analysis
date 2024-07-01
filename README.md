@@ -37,9 +37,7 @@ Expand analysis to more destinations, airlines, and months. Consider additional 
 
 
 ### Bibliography
-Alamr, Meshal. “Flight Price Prediction.” GitHub, 1 Nov. 2021, GitHub Link.
-This README provides a concise overview, data description, key findings, analysis details, recommendations, limitations, and future work directions for the project.
-
+Alamr, Meshal. “Flight Price Prediction.” GitHub, 1 Nov. 2021, github.com/MeshalAlamr/flight-price-prediction.
 
 
 
