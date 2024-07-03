@@ -5,7 +5,7 @@
 As students at Centre College with a passion for travel but limited budgets, we aimed to identify the cheapest travel times, destinations, and airlines. We analyzed flight data from NYC to Paris and Moscow for February, March, and April 2022 using **R** to answer:
 
 1. **When is it cheapest to fly?**
-2. **Is it cheaper to fly to Paris or Moscow from New York?**
+2. **Is it cheaper to fly to Paris or Moscow from NYC?**
 3. **Is American Airlines or United Airlines cheaper?**
 
 ![download](https://github.com/pranjalshrestha/Flight_Price_Analysis/assets/135492582/c7b401dc-c0c9-42cb-aff0-ac45616fc742)
